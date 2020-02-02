@@ -1,7 +1,7 @@
 # Reconstruction-of-the-data-visualized-in-a-plot (scatter plot)
 Python, opencv   
 
-
+![](Images/subf1.png)
 
 
 
