@@ -54,3 +54,5 @@ The result obtained needs little changes to get the final output, but the accura
 # Note :
 To detect the exact points on the more generalized scale on the graph we have used the center shifting method P(x,y) = P(x-X, y-Y) where (X, Y) are the coordinates of the new center and this point can be detected as bottom left point of the following rectangle :
 
+![](Images/subf_last.png)
+
